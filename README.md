@@ -1,2 +1,2 @@
 # Sentiment-Analysis
--A tool for analysing sentiment on using a twitter developer account
+-A tool for analysing sentiment on twitter ,using a twitter developer account
